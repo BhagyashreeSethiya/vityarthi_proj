@@ -40,17 +40,9 @@ vityarthi_proj/
 3. Run the `Main` class
 4. Check console output for students, courses, and enrollments
 
-## Screenshots
+/intellij_setup.png)
 
-### Java Version
-![Java Version](screenshots/java_version.png)
 
-### IDE Setup
-![IDE Setup](screenshots/intellij_setup.png)
-
-### Program Running
-![Program Running](screenshots/programme_output1.png)
-![Program Running](screenshots/programme_output2.png)
 
 
 ## Author
